@@ -1,5 +1,5 @@
 # cheadsheets
-##hola, mi nombre es juan carlos malanco :D
+#hola, mi nombre es juan carlos malanco :D#
 
 
 |lenguajes |Habilidad|
@@ -38,4 +38,4 @@ experiencia profecional en una casa de empeño
 Idiomas:
 * Español
 * ingles
-* jap
+* japones
